@@ -4,6 +4,8 @@ This repository contains information about the syntax of a programming language 
 
 MondotSyn follows an **imperative style with light-weight object support and function overloading**. It mixes procedural programming with rich data structures and object-like methods so you can organize code in a modular, reusable way.
 
+You can see the implementation in progress of the language at [mondot](https://github.com/soloverdrive/mondot).
+
 ## Table of contents
 
 * [Core language structures](#core-language-structures)

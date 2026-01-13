@@ -4,6 +4,8 @@ Este repositório contém informações sobre a sintaxe da linguagem de programa
 
 A linguagem tem como paradigma **imperativo com suporte a orientação a objetos leve e funções sobrecarregadas**. Ela combina características de programação procedural, manipulação de estruturas de dados complexas e métodos de objetos, permitindo que o programador organize código de forma modular e reutilizável.
 
+Você pode ver a implementação em progresso da linguagem em [mondot](https://github.com/soloverdrive/mondot).
+
 ## Sumário
 
 * [Estruturas principais da linguagem](#estruturas-principais-da-linguagem)
