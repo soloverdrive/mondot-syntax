@@ -67,7 +67,7 @@ end
         body-if
     or (cond2)
         body-else-if
-    or
+    else
         body-else
     end
     ```
@@ -96,11 +96,11 @@ end
 
 * **instanciamento de item**
     ```
-    item name
+    item (
         T value
         T value2
         ...
-    end
+    )
     ```
 
 * **funções**
